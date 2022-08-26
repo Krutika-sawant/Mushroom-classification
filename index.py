@@ -36,10 +36,14 @@ if choose == "Home":
     st.write("    ")
     st.write("    ")
     st.write("    ")
-
-    st.write(" **-->In this WebApp you will be able to observe whether your mushroom is poisonous or edible.**")
-    st.write(" **-->Only thing you have to do is enter the correct features of your mushroom into this WebApp.**")
-    st.write(" **-->After you will be able to see the prediction whether your mushroom is edible or poisonous.**")
+    st.write("let's find out whether your mushroom is edible😋 or poisonous🤮?")
+    st.write(" **👉This WebApp will help you to predict whether your mushroom is poisonous or edible.**")
+    st.write(" **👉Enter the correct features of your mushroom in input section.**")
+    st.write(" **👉After you will get the predicted result whether your mushroom is edible or poisonous.**")
+    st.write("    ")
+    st.write("    ")
+    st.write("    ")
+    st.write("    ")
 
 
 if choose == "Prediction":
